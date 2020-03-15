@@ -8,6 +8,7 @@ blas=1.0=mkl
 bleach=3.1.0=py37_0
 ca-certificates=2020.1.1=0
 certifi=2019.11.28=py37_0
+convertdate=2.2.0=pypi_0
 cycler=0.10.0=py37_0
 dbus=1.13.12=h746ee38_0
 decorator=4.4.2=py_0
@@ -20,6 +21,7 @@ glib=2.63.1=h5a9c865_0
 gmp=6.1.2=h6c8ec71_1
 gst-plugins-base=1.14.0=hbbd80ab_1
 gstreamer=1.14.0=hb453b48_1
+holidays=0.10.1=pypi_0
 icu=58.2=h9c2bf20_1
 importlib_metadata=1.5.0=py37_0
 intel-openmp=2020.0=166
@@ -74,6 +76,7 @@ prometheus_client=0.7.1=py_0
 prompt_toolkit=3.0.3=py_0
 ptyprocess=0.6.0=py37_0
 pygments=2.5.2=py_0
+pymeeus=0.3.7=pypi_0
 pyparsing=2.4.6=py_0
 pyqt=5.9.2=py37h05f1152_2
 pyrsistent=0.15.7=py37h7b6447c_0

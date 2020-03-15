@@ -104,4 +104,9 @@ dependencies:
   - zeromq=4.3.1=he6710b0_3
   - zipp=2.2.0=py_0
   - zlib=1.2.11=h7b6447c_3
-prefix: ~/miniconda/envs/py3
+  - pip:
+    - convertdate==2.2.0
+    - holidays==0.10.1
+    - pymeeus==0.3.7
+prefix: /home/jkaiser/miniconda/envs/py3
+
